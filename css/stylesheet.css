@@ -1,0 +1,166 @@
+html { 
+font-family: 'Playfair Display', serif; 
+background-color: white;
+}
+
+header {
+width: 100%;
+background: white;
+height: 150px;
+
+}
+
+#container {
+width: 990px;
+margin: 0 auto;
+padding: 50px;
+
+}
+
+h1 img {
+float: left;
+width: 20%;
+}
+
+li {
+color: #e61a27;
+float: right;
+padding-left: 10px;
+padding-right: 10px;
+list-style-type: none;
+display: inline-block;
+
+}
+
+a {
+color: #e61a27;
+text-decoration: none;
+
+}
+
+
+#main {
+text-align: center;
+color: white;
+font-size:30px;
+height: 300px;
+width: 100%;
+background: url(../images/bola.jpg) center; 
+    
+
+}
+
+
+#info {
+padding:1px;
+width: 400px;
+margin:40px;
+}
+
+
+
+
+#marketing div {
+width: 248px;
+float:left;
+margin:40px;
+}
+
+.col-1 h2{
+	color: #e61a27;
+}
+h3{
+	color: #e61a27;
+
+}
+
+#marketing .col-1 img {
+	width: 250px;
+	height:100px;
+	background-color:black;
+
+}
+#info .col-1 p{
+	float: left;
+	display: block;
+	width: 305px; 
+}
+
+#info .col-2 img {
+	float: right;
+	height: 200px;
+	width: 95px;
+
+	
+}
+
+
+#marketing .col-2 img {
+	width: 110px;
+	height:110px;
+	background-color:black;
+	float: center;
+
+}
+
+#marketing .col-3 img {
+	width: 250px;
+	height:100px;
+	background-color:black;
+}
+
+button {
+	background-color: #e61a27;
+	color:white;
+}
+
+footer div {
+/*float: left;*/
+padding-left: 10px;
+padding-right: 10px;
+list-style-type: none;
+display: inline-block;
+}
+
+footer{
+	width: 100%;
+	clear: both;
+}
+
+footer .col-1{
+	float: left;
+	width: 30%;
+}
+
+footer .col-2{
+	/*float: left;*/
+	width: 30%;
+}
+footer .col-3{
+	/*float: left;*/
+	width: 30%;
+}
+footer .col-4{
+	float: right;
+	width: 30%;
+}
+footer .col-1 img{
+	width: 110px;
+	height:110px;
+	background-color:black;
+
+	
+
+}
+footer .col-2 li{
+	color: #e61a27;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	list-style-type: none;
+}
+footer .col-4 img{
+	width: 30px;
+	height:15px;
+	
+}
